@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "706778879884",
+    "project_id": "bachat-book",
+    "storage_bucket": "bachat-book.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706778879884:android:3032464bfe8ec6d0c568a9",
+        "android_client_info": {
+          "package_name": "com.bachat_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYOE5J20wOLt3LrIQVSain-1SZDKK4jok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706778879884:android:c51987a20ab4b3abc568a9",
+        "android_client_info": {
+          "package_name": "com.bachatbook.customer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYOE5J20wOLt3LrIQVSain-1SZDKK4jok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
